@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files (敏感信息不提交)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+server.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# Misc
+*.tgz
+.vercel
+
+# Cloud Studio / Codebuddy internal files
+.codebuddy/
+.cloudstudio
+.genie/
+docs/
