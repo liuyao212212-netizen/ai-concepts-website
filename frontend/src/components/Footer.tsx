@@ -69,7 +69,7 @@ export function Footer() {
             </div>
           </div>
           <p className="text-[#9ca3af] text-sm">
-            © 2024 AI concepts 智优康赛. 保留所有权利.
+            © 2026 AI concepts 智优康赛. 保留所有权利.
           </p>
         </div>
       </div>
